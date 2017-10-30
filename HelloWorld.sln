@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HelloWorld.Test", "HelloWorld.Test\HelloWorld.Test.csproj", "{22D91A3A-80A0-4898-84EB-DF28304C07FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeralConverter", "RomanNumeralConverter\RomanNumeralConverter.csproj", "{1871CB24-E7AC-4BAD-8558-4F4D702D20D8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RomanNumeralConverter.Test", "RomanNumeralConverter.Test\RomanNumeralConverter.Test.csproj", "{20C14328-4476-4E48-99CA-46B8B5E29E40}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{22D91A3A-80A0-4898-84EB-DF28304C07FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{22D91A3A-80A0-4898-84EB-DF28304C07FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{22D91A3A-80A0-4898-84EB-DF28304C07FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1871CB24-E7AC-4BAD-8558-4F4D702D20D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1871CB24-E7AC-4BAD-8558-4F4D702D20D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1871CB24-E7AC-4BAD-8558-4F4D702D20D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1871CB24-E7AC-4BAD-8558-4F4D702D20D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20C14328-4476-4E48-99CA-46B8B5E29E40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20C14328-4476-4E48-99CA-46B8B5E29E40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20C14328-4476-4E48-99CA-46B8B5E29E40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20C14328-4476-4E48-99CA-46B8B5E29E40}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
